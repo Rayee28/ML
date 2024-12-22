@@ -1,0 +1,2 @@
+Given a csv file named canada_per_capita_income which contains years and per capita income for those years, train a linear regression model based on this data.
+Then predict per capita income for any year.
