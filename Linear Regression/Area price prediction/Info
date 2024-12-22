@@ -1,0 +1,2 @@
+Given a csv file named areaprices.csv which contains area in sq. feet along with it's price train a linear regression model with this data.
+Then predict the prices for the list of area's given in area.csv and save it in prediction.csv. 
