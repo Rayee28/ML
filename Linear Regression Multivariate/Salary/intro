@@ -1,0 +1,4 @@
+Given a csv file hiring.csv clean the data, apply linear regression model to it and predict the salary for 2 yr experience, 9 test score, 6 interview score and 12 yr experience, 10 test score, 10 interview score.
+hiring.csv has the feilds experience, test score, interview score and salary.
+Some of the blocks in experience coloumn are missing so replace them with 0 and the values are given in words so convert them into numbers using word2number.
+Also replace the missing values in test score column with median of the test score values. 
